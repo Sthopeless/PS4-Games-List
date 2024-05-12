@@ -21,7 +21,7 @@ $(function () {
                 "data": results.data,
                 "deferRender": true,
                 "scrollY": 550,
-                "pageLength": 1000,
+                "pageLength": -1,
                 "select": true,
                 "columnDefs": [{
                     "width": "0%",
