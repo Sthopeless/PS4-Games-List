@@ -9,9 +9,9 @@
     --font: 'Merriweather Sans', sans-serif;
 }
 
-.container * {
+/* .container * {
     border-radius: 50px;
-}
+} */
 
 html {
     background-color: var(--black);
