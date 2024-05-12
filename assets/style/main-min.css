@@ -87,11 +87,11 @@ select {
 }
 
 /* DataTables length */
-/* #gameList_length {
+#gameList_length {
   position: relative;
   float: right;
   z-index: 99;
-} */
+}
 
 /* Table cell styles */
 td:nth-child(1) {

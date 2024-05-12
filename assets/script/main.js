@@ -41,11 +41,11 @@ $(function () {
 
 
 // Filter button
-$("#btn").click(function () {
+// $("#btn").click(function () {
 
-    $('#gameList_filter input').focus().val("7.02");
-    simulateMouseClick(document.querySelector("#gameList_filter input"));
-});
+//     $('#gameList_filter input').focus().val("7.02");
+//     simulateMouseClick(document.querySelector("#gameList_filter input"));
+// });
 
 
 // Simulate mouse press function,
